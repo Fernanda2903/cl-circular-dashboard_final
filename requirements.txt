@@ -6,3 +6,4 @@ plotly
 pillow
 statsmodels
 scikit-learn
+plotly==5.14.1
